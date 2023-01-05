@@ -1,0 +1,13 @@
+body {
+  background-color: bisque;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 80px;
+}
+
+.hide {
+  display: none;
+}/*# sourceMappingURL=main.css.map */
